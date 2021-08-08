@@ -1,5 +1,3 @@
 # Weather-App
 
-- current location startup?
-- 
-- babel
+a simple weather searching app
